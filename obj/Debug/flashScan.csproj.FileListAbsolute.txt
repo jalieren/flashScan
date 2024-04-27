@@ -1,0 +1,6 @@
+C:\Users\gosha\source\repos\flashScan\bin\Debug\flashScan.exe
+C:\Users\gosha\source\repos\flashScan\bin\Debug\flashScan.pdb
+C:\Users\gosha\source\repos\flashScan\obj\Debug\flashScan.csproj.AssemblyReference.cache
+C:\Users\gosha\source\repos\flashScan\obj\Debug\flashScan.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\flashScan\obj\Debug\flashScan.exe
+C:\Users\gosha\source\repos\flashScan\obj\Debug\flashScan.pdb
